@@ -1,0 +1,26 @@
+h1{
+	color: yellow;
+    font: sans-serif;
+    margin: auto;
+}
+ul:first-of-type li:nth-child(3){
+	color: orange;
+}
+a{
+	color: rgb(100,100,100);
+	text-decoration: none;
+}
+h2{
+	color: rgb(244, 66, 206);
+	text-decoration: underline;
+	margin: 50px;
+}
+div{
+	margin: auto;
+	width: 500px;
+	
+}
+img{
+	width: 100px;
+	height: 100px;
+}
