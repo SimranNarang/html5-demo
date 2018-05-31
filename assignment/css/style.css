@@ -1,14 +1,15 @@
 .nav{
 	background-color: black;
 }
+
 header h1{
-	background: url(img/easternts_logo.gif) no-repeat;
+/*	background: url(img/easternts_logo.gif) no-repeat;  */
 	padding-top: 20px;
 	width: 267px;
 	height: 60px; 
 	font-size: 50px; 
-
 }
+
 button{
 	margin-left: auto;
 	margin-right: auto;
