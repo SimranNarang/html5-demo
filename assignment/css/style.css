@@ -1,0 +1,49 @@
+header h1{
+	background: url(img/easternts_logo.gif) no-repeat;
+	padding-top: 20px;
+	width: 267px;
+	height: 60px; 
+	font-size: 50px; 
+	
+}
+body{
+	background-color: #e3e3e3;
+	margin: auto;
+}
+.nav{
+	background-color: black;
+}
+nav ul li{
+	display: inline;
+	margin-left: 0;
+	margin-right: 40px;
+	font-size: 20px;
+	padding: 20px 20px; 
+}
+img{
+	width: 270px;
+	height: 150px;
+}
+nav ul li a{
+	text-decoration: none;
+	position: relative;
+	font-size: 14px;
+	line-height: 14px;
+	display: box;
+	color: #FFF;
+	font-weight: 600;
+}
+.main{
+	margin: 30px 0;
+}
+secton.solid{
+	border-style: solid;
+}
+section{
+	box-sizing: border-box;
+}
+section p{
+	padding-top: 10px;
+}
+
+
