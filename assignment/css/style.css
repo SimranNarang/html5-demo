@@ -1,6 +1,7 @@
 .nav{
 	background-color: black;
 }
+
 header{
 	color: white;
 	background-color: black;
@@ -45,6 +46,7 @@ nav ul li{
 }
 .main{
 	padding-top: 120px;
+	position: center;
 }
 .blog img{
 	width: 290px;
@@ -89,9 +91,10 @@ footer p{
 }
 
 footer{
-	background-color: #777;
+	background-color: black;
 	display: block;
 	height: 200px;
+	color: white;
 
 }
 footer img{
@@ -103,3 +106,5 @@ footer ul li{
 	display: inline;
 	text-decoration: none;
 }
+
+
